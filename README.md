@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **fenet-as/fenet-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake gif](https://github.com/fenet-as/fenet-as/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fenet-as/fenet-as/output/github-snake-dark.svg" alt="snake gif"/>
+</div>
+
