@@ -54,7 +54,7 @@ Computer Science Student • Full Stack Developer • AI Enthusiast • DevOps L
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## 📈 GitHub Stats
 
@@ -64,7 +64,7 @@ Computer Science Student • Full Stack Developer • AI Enthusiast • DevOps L
 
 </div>
 
----
+--- -->
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Computer Science Student • Full Stack Developer • AI Enthusiast • DevOps L
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## 📫 Connect With Me
 
@@ -101,7 +101,7 @@ Computer Science Student • Full Stack Developer • AI Enthusiast • DevOps L
 
 </div>
 
----
+--- -->
 
 <div align="center">
 
