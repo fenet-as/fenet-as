@@ -86,26 +86,7 @@
 
 ---
 
-## 🌱 Currently Learning
 
-- ☁️ Kubernetes
-- ⚙️ CI/CD Pipelines
-- 🤖 AI Agents
-- 🏗️ System Design
-- ☁️ Cloud Computing
-
----
-
-## ⭐ Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 📚 StudyCollab | Collaborative learning platform |
-| 🤖 AI Study Assistant | RAG-powered learning assistant |
-| ☁️ Kubernetes Demo | Container orchestration demo |
-| 🌐 Portfolio | Built with Next.js |
-
----
 
 ## 📫 Connect With Me
 
