@@ -84,38 +84,6 @@ Computer Science Student • Full Stack Developer • AI Enthusiast • DevOps L
 
 </div>
 
----
-
-<div align="center">
-
-## 🌱 Currently Learning
-
-🐳 Docker
-
-☸️ Kubernetes
-
-⚙️ CI/CD Pipelines
-
-🤖 AI Agents
-
-🏗️ System Design
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 📚 StudyCollab | Collaborative learning platform |
-| 🤖 AI Study Assistant | AI-powered study assistant with RAG |
-| ☁️ Kubernetes Demo | Docker + Kubernetes deployment |
-| 🌐 Portfolio | Personal portfolio built with Next.js |
-
-</div>
 
 ---
 
