@@ -72,7 +72,6 @@ Computer Science Student • Full Stack Developer • AI Enthusiast
 
 </div> -->
 
----
 
 <div align="center">
 
