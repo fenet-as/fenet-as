@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fenet
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;AI+Enthusiast;DevOps+Learner;Building+Scalable+Applications;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning+🚀" />
 
 <p>
 Computer Science Student • Full Stack Developer • AI Enthusiast 
