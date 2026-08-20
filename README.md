@@ -64,13 +64,13 @@ Computer Science Student • Full Stack Developer • AI Enthusiast
 
 --- -->
 
-<div align="center">
+<!-- <div align="center">
 
 ## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=fenet-as&theme=tokyonight&hide_border=true"/>
 
-</div>
+</div> -->
 
 ---
 
